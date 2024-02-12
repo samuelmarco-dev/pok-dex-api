@@ -1,0 +1,23 @@
+{
+  "name": "pokedex-api",
+  "version": "1.0.0",
+  "description": "Pokèdex API with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmarco-dev/pokedex-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelmarco-dev/pokedex-api/issues"
+  },
+  "homepage": "https://github.com/samuelmarco-dev/pokedex-api#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

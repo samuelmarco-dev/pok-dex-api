@@ -1,2 +1,2 @@
-# pok-dex-api
-Pokèdex API with NodeJS
+# pokedex-api
+Pokedex API with NodeJS
