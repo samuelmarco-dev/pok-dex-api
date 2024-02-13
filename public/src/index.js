@@ -2,7 +2,7 @@ const list = document.getElementById("pokemonList");
 const loadMore = document.getElementById("loadMore");
 
 const limit = 10;
-const firstGeneration = 15;
+const firstGeneration = 151;
 let offset = 0;
 
 function convertPokemon(pokemon) {
