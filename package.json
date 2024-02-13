@@ -4,6 +4,7 @@
   "description": "Pokèdex API with NodeJS",
   "main": "index.js",
   "scripts": {
+    "server": "npx http-server ./public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
